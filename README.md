@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arthi</h1>
-<h3 align="center">Currently Looking for opportunity to explore more into the Developer role, As a fresher in IT, I need a platform to prove my technical knowledge and develop my career into the IT industry.I'm ready to learn new skills and quick learner.</h3>
+<h3 align="center">Currently Looking for opportunity to explore more into the Developer role, As a fresher in IT, I need a platform to prove my technical knowledge and develop my career into the IT industry.I'm ready to learn new skills which will be helpfull for my career as well as organisational goals.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthiarthi456&label=Profile%20views&color=0e75b6&style=flat" alt="arthiarthi456" /> </p>
 
